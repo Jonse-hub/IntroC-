@@ -1,0 +1,13 @@
+C:\Users\jona444j\source\repos\EX16Methods\EX16Methods\bin\Debug\netcoreapp3.1\EX16Methods.exe
+C:\Users\jona444j\source\repos\EX16Methods\EX16Methods\bin\Debug\netcoreapp3.1\EX16Methods.deps.json
+C:\Users\jona444j\source\repos\EX16Methods\EX16Methods\bin\Debug\netcoreapp3.1\EX16Methods.runtimeconfig.json
+C:\Users\jona444j\source\repos\EX16Methods\EX16Methods\bin\Debug\netcoreapp3.1\EX16Methods.runtimeconfig.dev.json
+C:\Users\jona444j\source\repos\EX16Methods\EX16Methods\bin\Debug\netcoreapp3.1\EX16Methods.dll
+C:\Users\jona444j\source\repos\EX16Methods\EX16Methods\bin\Debug\netcoreapp3.1\EX16Methods.pdb
+C:\Users\jona444j\source\repos\EX16Methods\EX16Methods\obj\Debug\netcoreapp3.1\EX16Methods.csprojAssemblyReference.cache
+C:\Users\jona444j\source\repos\EX16Methods\EX16Methods\obj\Debug\netcoreapp3.1\EX16Methods.AssemblyInfoInputs.cache
+C:\Users\jona444j\source\repos\EX16Methods\EX16Methods\obj\Debug\netcoreapp3.1\EX16Methods.AssemblyInfo.cs
+C:\Users\jona444j\source\repos\EX16Methods\EX16Methods\obj\Debug\netcoreapp3.1\EX16Methods.csproj.CoreCompileInputs.cache
+C:\Users\jona444j\source\repos\EX16Methods\EX16Methods\obj\Debug\netcoreapp3.1\EX16Methods.dll
+C:\Users\jona444j\source\repos\EX16Methods\EX16Methods\obj\Debug\netcoreapp3.1\EX16Methods.pdb
+C:\Users\jona444j\source\repos\EX16Methods\EX16Methods\obj\Debug\netcoreapp3.1\EX16Methods.genruntimeconfig.cache

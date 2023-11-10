@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EX22WPFLabelButton/1.0.0": {
+        "runtime": {
+          "EX22WPFLabelButton.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EX22WPFLabelButton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

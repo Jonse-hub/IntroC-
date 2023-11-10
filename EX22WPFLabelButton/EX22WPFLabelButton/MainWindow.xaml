@@ -1,0 +1,27 @@
+﻿<Window x:Class="EX22WPFLabelButton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EX22WPFLabelButton"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btnHello" Content="Say Hello" Margin="230,82,230,217" Click="btnHello_Click"/>
+        <Label x:Name="lblHello" Content="Click the button" HorizontalAlignment="Center" Margin="0,263,0,0" VerticalAlignment="Top"/>
+
+
+        <Button x:Name="btnBlue" Content="Blue" HorizontalAlignment="Left" Margin="118,289,0,0" VerticalAlignment="Top" Click="btnBlue_Click"/>
+        <Button x:Name="btnRed" Content="Red" HorizontalAlignment="Left" Margin="190,289,0,0" VerticalAlignment="Top" Click="btnRed_Click"/>
+        <Label x:Name="lblColor" Content="Color Label" HorizontalAlignment="Left" Margin="162,348,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblWhite" Content="Hvid" HorizontalAlignment="Left" Margin="647,348,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblRed" Content="Rød" HorizontalAlignment="Left" Margin="587,317,0,0" VerticalAlignment="Top" MouseEnter="lblRed_MouseEnter" Background="red" MouseLeave="lblRed_MouseLeave"/>
+        <Label x:Name="lblBlue" Content="Blå" HorizontalAlignment="Left" Margin="706,317,0,0" VerticalAlignment="Top" MouseEnter="lblBlue_MouseEnter" Background="Blue" MouseLeave="lblBlue_MouseLeave"/>
+
+
+
+
+
+
+    </Grid>
+</Window>

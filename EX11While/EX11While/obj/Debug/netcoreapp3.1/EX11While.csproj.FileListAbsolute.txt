@@ -1,0 +1,13 @@
+C:\Users\jona444j\source\repos\EX11While\EX11While\bin\Debug\netcoreapp3.1\EX11While.exe
+C:\Users\jona444j\source\repos\EX11While\EX11While\bin\Debug\netcoreapp3.1\EX11While.deps.json
+C:\Users\jona444j\source\repos\EX11While\EX11While\bin\Debug\netcoreapp3.1\EX11While.runtimeconfig.json
+C:\Users\jona444j\source\repos\EX11While\EX11While\bin\Debug\netcoreapp3.1\EX11While.runtimeconfig.dev.json
+C:\Users\jona444j\source\repos\EX11While\EX11While\bin\Debug\netcoreapp3.1\EX11While.dll
+C:\Users\jona444j\source\repos\EX11While\EX11While\bin\Debug\netcoreapp3.1\EX11While.pdb
+C:\Users\jona444j\source\repos\EX11While\EX11While\obj\Debug\netcoreapp3.1\EX11While.csprojAssemblyReference.cache
+C:\Users\jona444j\source\repos\EX11While\EX11While\obj\Debug\netcoreapp3.1\EX11While.AssemblyInfoInputs.cache
+C:\Users\jona444j\source\repos\EX11While\EX11While\obj\Debug\netcoreapp3.1\EX11While.AssemblyInfo.cs
+C:\Users\jona444j\source\repos\EX11While\EX11While\obj\Debug\netcoreapp3.1\EX11While.csproj.CoreCompileInputs.cache
+C:\Users\jona444j\source\repos\EX11While\EX11While\obj\Debug\netcoreapp3.1\EX11While.dll
+C:\Users\jona444j\source\repos\EX11While\EX11While\obj\Debug\netcoreapp3.1\EX11While.pdb
+C:\Users\jona444j\source\repos\EX11While\EX11While\obj\Debug\netcoreapp3.1\EX11While.genruntimeconfig.cache

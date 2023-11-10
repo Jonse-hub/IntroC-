@@ -1,0 +1,52 @@
+﻿<Window x:Class="EX23WPFTextBlockTextBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EX23WPFTextBlockTextBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock
+            Background="Red"
+            Foreground="Aqua"
+            HorizontalAlignment="Left"
+            Margin="10,20,-73,0"
+            VerticalAlignment="Top">Dette er en ligegyldig lang tekst, som er så lang at den skal have et linebreak
+            <LineBreak/>for ikke at fortsætte udover kanten</TextBlock>
+        <TextBlock
+            Background="Yellow"
+            Foreground="Aqua"
+            HorizontalAlignment="Left"
+            Margin="10,83,0,0"
+            TextTrimming="CharacterEllipsis"
+            Text="Denne tekst er nogellunde lige så lang som den ovenfor, forskellen er bare, at denne tekst ikke har et linebreak. I stedet bruges TextTrimming for at få det til at stå pænt"
+            VerticalAlignment="Top"/>
+        <TextBlock
+            Background="Green"
+            Foreground="Aqua"
+            HorizontalAlignment="Left"
+            Margin="10,142,0,0"
+            TextWrapping="Wrap"
+            Text="Her står den sidste tekst. Denne tekst kunne være fuldstændig ligegyldig, men den lærer dig forhåbentlig et eller andet om egenskabe (property) TextWrapping"
+            VerticalAlignment="Top" />
+        <TextBox x:Name="tbxName" HorizontalAlignment="Left" Margin="331,317,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tbxReadOnly" HorizontalAlignment="Left" Margin="331,378,0,0" Text="ikke ændres" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsReadOnly="True"/>
+
+        <TextBox x:Name="tbxVisNavn" HorizontalAlignment="Left" Margin="596,292,0,0" Text="Jeg kan fortælle dig hvad dit navn er!" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsReadOnly="True"/>
+        <TextBox x:Name="tbxSkrivNavn" HorizontalAlignment="Left" Margin="596,378,0,0" Text="skriv dit navn" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="tryk" HorizontalAlignment="Left" Margin="741,354,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <Label x:Name="lblNavn" Content="navn" HorizontalAlignment="Left" Margin="637,346,0,0" VerticalAlignment="Top"/>
+        <TextBlock
+            Background="Yellow"
+            Foreground="Aqua"
+            HorizontalAlignment="Left"
+            Margin="10,104,0,0"
+            
+            Text="Denne tekst er nogellunde lige så lang som den ovenfor, forskellen er bare, at denne tekst ikke har et linebreak. I stedet bruges TextTrimming for at få det til at stå pænt"
+            VerticalAlignment="Top"/>
+
+
+
+    </Grid>
+</Window>

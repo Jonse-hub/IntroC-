@@ -1,0 +1,8 @@
+C:\Users\jona444j\source\repos\EX20StreamReader\EX20StreamReader\bin\Debug\Values.txt
+C:\Users\jona444j\source\repos\EX20StreamReader\EX20StreamReader\bin\Debug\EX20StreamReader.exe.config
+C:\Users\jona444j\source\repos\EX20StreamReader\EX20StreamReader\bin\Debug\EX20StreamReader.exe
+C:\Users\jona444j\source\repos\EX20StreamReader\EX20StreamReader\bin\Debug\EX20StreamReader.pdb
+C:\Users\jona444j\source\repos\EX20StreamReader\EX20StreamReader\obj\Debug\EX20StreamReader.csprojAssemblyReference.cache
+C:\Users\jona444j\source\repos\EX20StreamReader\EX20StreamReader\obj\Debug\EX20StreamReader.csproj.CoreCompileInputs.cache
+C:\Users\jona444j\source\repos\EX20StreamReader\EX20StreamReader\obj\Debug\EX20StreamReader.exe
+C:\Users\jona444j\source\repos\EX20StreamReader\EX20StreamReader\obj\Debug\EX20StreamReader.pdb

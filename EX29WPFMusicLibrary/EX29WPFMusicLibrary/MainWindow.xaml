@@ -1,0 +1,54 @@
+﻿<Window x:Class="EX29WPFMusicLibrary.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EX29WPFMusicLibrary"
+        mc:Ignorable="d"
+        Title="Playliste" Height="600" Width="800">
+    <Grid>
+        <Label Content="Artist:" HorizontalAlignment="Left" Margin="145,74,0,0" VerticalAlignment="Top"/>
+        <Label Content="Titel:" HorizontalAlignment="Left" Margin="149,177,0,0" VerticalAlignment="Top"/>
+        <Label Content="Længde:" HorizontalAlignment="Left" Margin="79,257,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="lbxTracks" Margin="400,37,16,236"/>
+
+        <TextBox x:Name="tbxArtist" HorizontalAlignment="Left" Margin="242,78,0,0" Text="Jack Harlow" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tbxTitle" HorizontalAlignment="Left" Margin="242,181,0,0" Text="What's Popping" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tbxMin" HorizontalAlignment="Left" Margin="195,261,0,0" Text="3" TextWrapping="Wrap" VerticalAlignment="Top" Width="54"/>
+        <TextBox x:Name="tbxSec" HorizontalAlignment="Left" Margin="283,261,0,0" Text="13" TextWrapping="Wrap" VerticalAlignment="Top" Width="60"/>
+        <Label Content="Min:" HorizontalAlignment="Left" Margin="203,235,0,0" VerticalAlignment="Top"/>
+        <Label Content="Sek:" HorizontalAlignment="Left" Margin="294,235,0,0" VerticalAlignment="Top"/>
+
+        <Label Content="Korteste sang:" HorizontalAlignment="Left" Margin="442,517,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblShortTrack" Content="Ingen sange tilføjet" HorizontalAlignment="Left" Margin="536,517,0,0" VerticalAlignment="Top"/>
+
+        <Button x:Name="btnAddSong" Content="Tilføj til Playlist" HorizontalAlignment="Left" Margin="242,304,0,0" VerticalAlignment="Top" Click="btnAddSong_Click"/>
+        <Button x:Name="btnRemoveSong" Content="Slet sang" HorizontalAlignment="Left" Margin="416,360,0,0" VerticalAlignment="Top" Click="btnRemoveSong_Click"/>
+        <Label x:Name="lblfejl" Content="" HorizontalAlignment="Left" Margin="239,335,0,0" VerticalAlignment="Top" Foreground="Red"/>
+
+
+        <ListBox x:Name="lbxPlaylists" Margin="29,343,487,21" />
+        <!-- x:Name=""-->
+        <Button x:Name="btnNewPlaylist"  Content="Tilføg ny playlist" HorizontalAlignment="Left" Margin="330,458,0,0" VerticalAlignment="Top" Click="btnNewPlaylist_Click"/>
+        <Label Content="Ny playlist navn:" HorizontalAlignment="Left" Margin="442,427,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnDeletewPlaylist" Content="slet playlist" HorizontalAlignment="Left" Margin="330,520,0,0" VerticalAlignment="Top" Click="btnDeletewPlaylist_Click"/>
+
+        <TextBox x:Name="tbxPlaylistName" HorizontalAlignment="Left" Margin="442,460,0,0" Text="Rock" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="korteste sang i alle playlister: " HorizontalAlignment="Left" Margin="325,389,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblShortestAllPlaylist" Content="ingen sange tilføjet" HorizontalAlignment="Left" Margin="502,389,0,0" VerticalAlignment="Top" RenderTransformOrigin="2.423,0.013"/>
+
+
+        <!-- playlister -->
+
+
+
+
+        <!--<StackPanel>
+            <DockPanel>
+            </DockPanel>
+        </StackPanel>
+        <StackPanel Grid.Column="2">
+        -->
+
+    </Grid>
+</Window>

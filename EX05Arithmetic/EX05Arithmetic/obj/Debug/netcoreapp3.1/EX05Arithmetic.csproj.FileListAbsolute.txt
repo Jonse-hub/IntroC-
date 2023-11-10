@@ -1,0 +1,13 @@
+C:\Users\jona444j\source\repos\EX05Arithmetic\EX05Arithmetic\bin\Debug\netcoreapp3.1\EX05Arithmetic.exe
+C:\Users\jona444j\source\repos\EX05Arithmetic\EX05Arithmetic\bin\Debug\netcoreapp3.1\EX05Arithmetic.deps.json
+C:\Users\jona444j\source\repos\EX05Arithmetic\EX05Arithmetic\bin\Debug\netcoreapp3.1\EX05Arithmetic.runtimeconfig.json
+C:\Users\jona444j\source\repos\EX05Arithmetic\EX05Arithmetic\bin\Debug\netcoreapp3.1\EX05Arithmetic.runtimeconfig.dev.json
+C:\Users\jona444j\source\repos\EX05Arithmetic\EX05Arithmetic\bin\Debug\netcoreapp3.1\EX05Arithmetic.dll
+C:\Users\jona444j\source\repos\EX05Arithmetic\EX05Arithmetic\bin\Debug\netcoreapp3.1\EX05Arithmetic.pdb
+C:\Users\jona444j\source\repos\EX05Arithmetic\EX05Arithmetic\obj\Debug\netcoreapp3.1\EX05Arithmetic.csprojAssemblyReference.cache
+C:\Users\jona444j\source\repos\EX05Arithmetic\EX05Arithmetic\obj\Debug\netcoreapp3.1\EX05Arithmetic.AssemblyInfoInputs.cache
+C:\Users\jona444j\source\repos\EX05Arithmetic\EX05Arithmetic\obj\Debug\netcoreapp3.1\EX05Arithmetic.AssemblyInfo.cs
+C:\Users\jona444j\source\repos\EX05Arithmetic\EX05Arithmetic\obj\Debug\netcoreapp3.1\EX05Arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\jona444j\source\repos\EX05Arithmetic\EX05Arithmetic\obj\Debug\netcoreapp3.1\EX05Arithmetic.dll
+C:\Users\jona444j\source\repos\EX05Arithmetic\EX05Arithmetic\obj\Debug\netcoreapp3.1\EX05Arithmetic.pdb
+C:\Users\jona444j\source\repos\EX05Arithmetic\EX05Arithmetic\obj\Debug\netcoreapp3.1\EX05Arithmetic.genruntimeconfig.cache

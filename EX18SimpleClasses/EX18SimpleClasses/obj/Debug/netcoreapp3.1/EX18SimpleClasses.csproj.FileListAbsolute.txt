@@ -1,0 +1,13 @@
+C:\Users\jona444j\source\repos\EX18SimpleClasses\EX18SimpleClasses\bin\Debug\netcoreapp3.1\EX18SimpleClasses.exe
+C:\Users\jona444j\source\repos\EX18SimpleClasses\EX18SimpleClasses\bin\Debug\netcoreapp3.1\EX18SimpleClasses.deps.json
+C:\Users\jona444j\source\repos\EX18SimpleClasses\EX18SimpleClasses\bin\Debug\netcoreapp3.1\EX18SimpleClasses.runtimeconfig.json
+C:\Users\jona444j\source\repos\EX18SimpleClasses\EX18SimpleClasses\bin\Debug\netcoreapp3.1\EX18SimpleClasses.runtimeconfig.dev.json
+C:\Users\jona444j\source\repos\EX18SimpleClasses\EX18SimpleClasses\bin\Debug\netcoreapp3.1\EX18SimpleClasses.dll
+C:\Users\jona444j\source\repos\EX18SimpleClasses\EX18SimpleClasses\bin\Debug\netcoreapp3.1\EX18SimpleClasses.pdb
+C:\Users\jona444j\source\repos\EX18SimpleClasses\EX18SimpleClasses\obj\Debug\netcoreapp3.1\EX18SimpleClasses.csprojAssemblyReference.cache
+C:\Users\jona444j\source\repos\EX18SimpleClasses\EX18SimpleClasses\obj\Debug\netcoreapp3.1\EX18SimpleClasses.AssemblyInfoInputs.cache
+C:\Users\jona444j\source\repos\EX18SimpleClasses\EX18SimpleClasses\obj\Debug\netcoreapp3.1\EX18SimpleClasses.AssemblyInfo.cs
+C:\Users\jona444j\source\repos\EX18SimpleClasses\EX18SimpleClasses\obj\Debug\netcoreapp3.1\EX18SimpleClasses.csproj.CoreCompileInputs.cache
+C:\Users\jona444j\source\repos\EX18SimpleClasses\EX18SimpleClasses\obj\Debug\netcoreapp3.1\EX18SimpleClasses.dll
+C:\Users\jona444j\source\repos\EX18SimpleClasses\EX18SimpleClasses\obj\Debug\netcoreapp3.1\EX18SimpleClasses.pdb
+C:\Users\jona444j\source\repos\EX18SimpleClasses\EX18SimpleClasses\obj\Debug\netcoreapp3.1\EX18SimpleClasses.genruntimeconfig.cache

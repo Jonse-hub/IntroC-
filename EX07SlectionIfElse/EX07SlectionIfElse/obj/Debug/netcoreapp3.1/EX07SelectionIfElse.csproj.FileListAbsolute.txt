@@ -1,0 +1,13 @@
+C:\Users\jona444j\source\repos\EX07SlectionIfElse\EX07SlectionIfElse\bin\Debug\netcoreapp3.1\EX07SelectionIfElse.exe
+C:\Users\jona444j\source\repos\EX07SlectionIfElse\EX07SlectionIfElse\bin\Debug\netcoreapp3.1\EX07SelectionIfElse.deps.json
+C:\Users\jona444j\source\repos\EX07SlectionIfElse\EX07SlectionIfElse\bin\Debug\netcoreapp3.1\EX07SelectionIfElse.runtimeconfig.json
+C:\Users\jona444j\source\repos\EX07SlectionIfElse\EX07SlectionIfElse\bin\Debug\netcoreapp3.1\EX07SelectionIfElse.runtimeconfig.dev.json
+C:\Users\jona444j\source\repos\EX07SlectionIfElse\EX07SlectionIfElse\bin\Debug\netcoreapp3.1\EX07SelectionIfElse.dll
+C:\Users\jona444j\source\repos\EX07SlectionIfElse\EX07SlectionIfElse\bin\Debug\netcoreapp3.1\EX07SelectionIfElse.pdb
+C:\Users\jona444j\source\repos\EX07SlectionIfElse\EX07SlectionIfElse\obj\Debug\netcoreapp3.1\EX07SelectionIfElse.csprojAssemblyReference.cache
+C:\Users\jona444j\source\repos\EX07SlectionIfElse\EX07SlectionIfElse\obj\Debug\netcoreapp3.1\EX07SelectionIfElse.AssemblyInfoInputs.cache
+C:\Users\jona444j\source\repos\EX07SlectionIfElse\EX07SlectionIfElse\obj\Debug\netcoreapp3.1\EX07SelectionIfElse.AssemblyInfo.cs
+C:\Users\jona444j\source\repos\EX07SlectionIfElse\EX07SlectionIfElse\obj\Debug\netcoreapp3.1\EX07SelectionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\jona444j\source\repos\EX07SlectionIfElse\EX07SlectionIfElse\obj\Debug\netcoreapp3.1\EX07SelectionIfElse.dll
+C:\Users\jona444j\source\repos\EX07SlectionIfElse\EX07SlectionIfElse\obj\Debug\netcoreapp3.1\EX07SelectionIfElse.pdb
+C:\Users\jona444j\source\repos\EX07SlectionIfElse\EX07SlectionIfElse\obj\Debug\netcoreapp3.1\EX07SelectionIfElse.genruntimeconfig.cache

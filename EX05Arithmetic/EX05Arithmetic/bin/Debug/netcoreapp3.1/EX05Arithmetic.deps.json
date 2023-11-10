@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EX05Arithmetic/1.0.0": {
+        "runtime": {
+          "EX05Arithmetic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EX05Arithmetic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

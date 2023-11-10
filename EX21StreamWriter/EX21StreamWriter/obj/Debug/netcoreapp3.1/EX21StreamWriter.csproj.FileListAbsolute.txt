@@ -1,0 +1,13 @@
+C:\Users\jona444j\source\repos\EX21StreamWriter\EX21StreamWriter\bin\Debug\netcoreapp3.1\EX21StreamWriter.exe
+C:\Users\jona444j\source\repos\EX21StreamWriter\EX21StreamWriter\bin\Debug\netcoreapp3.1\EX21StreamWriter.deps.json
+C:\Users\jona444j\source\repos\EX21StreamWriter\EX21StreamWriter\bin\Debug\netcoreapp3.1\EX21StreamWriter.runtimeconfig.json
+C:\Users\jona444j\source\repos\EX21StreamWriter\EX21StreamWriter\bin\Debug\netcoreapp3.1\EX21StreamWriter.runtimeconfig.dev.json
+C:\Users\jona444j\source\repos\EX21StreamWriter\EX21StreamWriter\bin\Debug\netcoreapp3.1\EX21StreamWriter.dll
+C:\Users\jona444j\source\repos\EX21StreamWriter\EX21StreamWriter\bin\Debug\netcoreapp3.1\EX21StreamWriter.pdb
+C:\Users\jona444j\source\repos\EX21StreamWriter\EX21StreamWriter\obj\Debug\netcoreapp3.1\EX21StreamWriter.csprojAssemblyReference.cache
+C:\Users\jona444j\source\repos\EX21StreamWriter\EX21StreamWriter\obj\Debug\netcoreapp3.1\EX21StreamWriter.AssemblyInfoInputs.cache
+C:\Users\jona444j\source\repos\EX21StreamWriter\EX21StreamWriter\obj\Debug\netcoreapp3.1\EX21StreamWriter.AssemblyInfo.cs
+C:\Users\jona444j\source\repos\EX21StreamWriter\EX21StreamWriter\obj\Debug\netcoreapp3.1\EX21StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\jona444j\source\repos\EX21StreamWriter\EX21StreamWriter\obj\Debug\netcoreapp3.1\EX21StreamWriter.dll
+C:\Users\jona444j\source\repos\EX21StreamWriter\EX21StreamWriter\obj\Debug\netcoreapp3.1\EX21StreamWriter.pdb
+C:\Users\jona444j\source\repos\EX21StreamWriter\EX21StreamWriter\obj\Debug\netcoreapp3.1\EX21StreamWriter.genruntimeconfig.cache

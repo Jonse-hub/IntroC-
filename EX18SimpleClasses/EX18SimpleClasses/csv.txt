@@ -1,0 +1,6 @@
+nej, nej¨, nej, 200, False
+d, d, d, 2, False
+honda, dango, rød, 2040403, False
+hej¨, med dig, grøn, 200, False
+d, hahaha, gul, 2000, False
+dig, mig, grøn, 200, False

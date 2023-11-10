@@ -1,0 +1,10 @@
+C:\Users\jona444j\source\repos\EX17Objects\EX17Objects\obj\Debug\EX17Objects.csprojAssemblyReference.cache
+C:\Users\jona444j\source\repos\EX17Objects\EX17Objects\obj\Debug\EX17Objects.csproj.CoreCompileInputs.cache
+C:\Users\jona444j\source\repos\EX17Objects\EX17Objects\bin\Debug\EX17Objects.exe.config
+C:\Users\jona444j\source\repos\EX17Objects\EX17Objects\bin\Debug\EX17Objects.exe
+C:\Users\jona444j\source\repos\EX17Objects\EX17Objects\bin\Debug\EX17Objects.pdb
+C:\Users\jona444j\source\repos\EX17Objects\EX17Objects\bin\Debug\CarHandler.dll
+C:\Users\jona444j\source\repos\EX17Objects\EX17Objects\bin\Debug\CarHandler.xml
+C:\Users\jona444j\source\repos\EX17Objects\EX17Objects\obj\Debug\EX17Objects.csproj.CopyComplete
+C:\Users\jona444j\source\repos\EX17Objects\EX17Objects\obj\Debug\EX17Objects.exe
+C:\Users\jona444j\source\repos\EX17Objects\EX17Objects\obj\Debug\EX17Objects.pdb

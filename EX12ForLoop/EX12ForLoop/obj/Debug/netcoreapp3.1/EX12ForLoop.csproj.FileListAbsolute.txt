@@ -1,0 +1,12 @@
+C:\Users\jona444j\source\repos\EX12ForLoop\EX12ForLoop\bin\Debug\netcoreapp3.1\EX12ForLoop.exe
+C:\Users\jona444j\source\repos\EX12ForLoop\EX12ForLoop\bin\Debug\netcoreapp3.1\EX12ForLoop.deps.json
+C:\Users\jona444j\source\repos\EX12ForLoop\EX12ForLoop\bin\Debug\netcoreapp3.1\EX12ForLoop.runtimeconfig.json
+C:\Users\jona444j\source\repos\EX12ForLoop\EX12ForLoop\bin\Debug\netcoreapp3.1\EX12ForLoop.runtimeconfig.dev.json
+C:\Users\jona444j\source\repos\EX12ForLoop\EX12ForLoop\bin\Debug\netcoreapp3.1\EX12ForLoop.dll
+C:\Users\jona444j\source\repos\EX12ForLoop\EX12ForLoop\bin\Debug\netcoreapp3.1\EX12ForLoop.pdb
+C:\Users\jona444j\source\repos\EX12ForLoop\EX12ForLoop\obj\Debug\netcoreapp3.1\EX12ForLoop.AssemblyInfoInputs.cache
+C:\Users\jona444j\source\repos\EX12ForLoop\EX12ForLoop\obj\Debug\netcoreapp3.1\EX12ForLoop.AssemblyInfo.cs
+C:\Users\jona444j\source\repos\EX12ForLoop\EX12ForLoop\obj\Debug\netcoreapp3.1\EX12ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\jona444j\source\repos\EX12ForLoop\EX12ForLoop\obj\Debug\netcoreapp3.1\EX12ForLoop.dll
+C:\Users\jona444j\source\repos\EX12ForLoop\EX12ForLoop\obj\Debug\netcoreapp3.1\EX12ForLoop.pdb
+C:\Users\jona444j\source\repos\EX12ForLoop\EX12ForLoop\obj\Debug\netcoreapp3.1\EX12ForLoop.genruntimeconfig.cache

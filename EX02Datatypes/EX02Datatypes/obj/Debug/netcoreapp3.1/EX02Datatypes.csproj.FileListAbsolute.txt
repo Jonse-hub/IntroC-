@@ -1,0 +1,13 @@
+C:\Users\jona444j\source\repos\EX02Datatypes\EX02Datatypes\bin\Debug\netcoreapp3.1\EX02Datatypes.exe
+C:\Users\jona444j\source\repos\EX02Datatypes\EX02Datatypes\bin\Debug\netcoreapp3.1\EX02Datatypes.deps.json
+C:\Users\jona444j\source\repos\EX02Datatypes\EX02Datatypes\bin\Debug\netcoreapp3.1\EX02Datatypes.runtimeconfig.json
+C:\Users\jona444j\source\repos\EX02Datatypes\EX02Datatypes\bin\Debug\netcoreapp3.1\EX02Datatypes.runtimeconfig.dev.json
+C:\Users\jona444j\source\repos\EX02Datatypes\EX02Datatypes\bin\Debug\netcoreapp3.1\EX02Datatypes.dll
+C:\Users\jona444j\source\repos\EX02Datatypes\EX02Datatypes\bin\Debug\netcoreapp3.1\EX02Datatypes.pdb
+C:\Users\jona444j\source\repos\EX02Datatypes\EX02Datatypes\obj\Debug\netcoreapp3.1\EX02Datatypes.csprojAssemblyReference.cache
+C:\Users\jona444j\source\repos\EX02Datatypes\EX02Datatypes\obj\Debug\netcoreapp3.1\EX02Datatypes.AssemblyInfoInputs.cache
+C:\Users\jona444j\source\repos\EX02Datatypes\EX02Datatypes\obj\Debug\netcoreapp3.1\EX02Datatypes.AssemblyInfo.cs
+C:\Users\jona444j\source\repos\EX02Datatypes\EX02Datatypes\obj\Debug\netcoreapp3.1\EX02Datatypes.csproj.CoreCompileInputs.cache
+C:\Users\jona444j\source\repos\EX02Datatypes\EX02Datatypes\obj\Debug\netcoreapp3.1\EX02Datatypes.dll
+C:\Users\jona444j\source\repos\EX02Datatypes\EX02Datatypes\obj\Debug\netcoreapp3.1\EX02Datatypes.pdb
+C:\Users\jona444j\source\repos\EX02Datatypes\EX02Datatypes\obj\Debug\netcoreapp3.1\EX02Datatypes.genruntimeconfig.cache

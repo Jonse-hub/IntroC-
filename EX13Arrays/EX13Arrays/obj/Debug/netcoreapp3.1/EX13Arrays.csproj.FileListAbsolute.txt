@@ -1,0 +1,13 @@
+C:\Users\jona444j\source\repos\EX13Arrays\EX13Arrays\bin\Debug\netcoreapp3.1\EX13Arrays.exe
+C:\Users\jona444j\source\repos\EX13Arrays\EX13Arrays\bin\Debug\netcoreapp3.1\EX13Arrays.deps.json
+C:\Users\jona444j\source\repos\EX13Arrays\EX13Arrays\bin\Debug\netcoreapp3.1\EX13Arrays.runtimeconfig.json
+C:\Users\jona444j\source\repos\EX13Arrays\EX13Arrays\bin\Debug\netcoreapp3.1\EX13Arrays.runtimeconfig.dev.json
+C:\Users\jona444j\source\repos\EX13Arrays\EX13Arrays\bin\Debug\netcoreapp3.1\EX13Arrays.dll
+C:\Users\jona444j\source\repos\EX13Arrays\EX13Arrays\bin\Debug\netcoreapp3.1\EX13Arrays.pdb
+C:\Users\jona444j\source\repos\EX13Arrays\EX13Arrays\obj\Debug\netcoreapp3.1\EX13Arrays.csprojAssemblyReference.cache
+C:\Users\jona444j\source\repos\EX13Arrays\EX13Arrays\obj\Debug\netcoreapp3.1\EX13Arrays.AssemblyInfoInputs.cache
+C:\Users\jona444j\source\repos\EX13Arrays\EX13Arrays\obj\Debug\netcoreapp3.1\EX13Arrays.AssemblyInfo.cs
+C:\Users\jona444j\source\repos\EX13Arrays\EX13Arrays\obj\Debug\netcoreapp3.1\EX13Arrays.csproj.CoreCompileInputs.cache
+C:\Users\jona444j\source\repos\EX13Arrays\EX13Arrays\obj\Debug\netcoreapp3.1\EX13Arrays.dll
+C:\Users\jona444j\source\repos\EX13Arrays\EX13Arrays\obj\Debug\netcoreapp3.1\EX13Arrays.pdb
+C:\Users\jona444j\source\repos\EX13Arrays\EX13Arrays\obj\Debug\netcoreapp3.1\EX13Arrays.genruntimeconfig.cache

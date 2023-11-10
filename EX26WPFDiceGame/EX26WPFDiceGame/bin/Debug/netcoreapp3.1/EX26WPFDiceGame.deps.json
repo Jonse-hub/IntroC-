@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EX26WPFDiceGame/1.0.0": {
+        "runtime": {
+          "EX26WPFDiceGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EX26WPFDiceGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
